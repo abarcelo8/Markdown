@@ -1,6 +1,6 @@
 ![FOTO](https://pbs.twimg.com/profile_images/877218750/curriculum.jpg)
 
-#Curriculum
+# Curriculum
 
  ## Datos Personales
 
