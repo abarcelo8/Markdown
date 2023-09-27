@@ -10,7 +10,7 @@
 
  ### Correo Electrónico: abarcelo8@alumnes.aulabalear.org
 
-##Estudios
+## Estudios
 
 ### EP,ESO,FP
 
