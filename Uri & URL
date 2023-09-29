@@ -1,0 +1,35 @@
+    https://moodle.nigul.coop/course/modedit.php?add=assign&type=&course=82&section=3&return=0&sr=0
+        Protocolo: https
+        Dominio: moodle.nigul.coop
+        Ruta: /course/modedit.php
+        Parametros del URL: add=assign&type=&course=82&section=3&return=0&sr=0
+        Tipo: URL absoluta ya que tiene el protocolo (https://).
+
+    github.com/marketplace?type=apps
+        Protocolo: No està presente però asume  que és https común en navegadores web.
+        Dominio: github.com
+        Ruta: /marketplace
+        Paràmetros de URL: type=apps
+        Tipo: URL relativa ya que no tiene un protocolo (como http:// o https://).
+
+    https://www.meneame.net/story/primer-vuelo-avion-hidrogeno-mas-grande-mundo#comentario1
+        Protocolo: https
+        Dominio: www.meneame.net
+        Ruta: /story/primer-vuelo-avion-hidrogeno-mas-grande-mundo
+        Tipo: URL absoluta ya que incluye el protocolo (https://).
+
+    https://thispersondoesnotexist.com/image
+        Protocolo: https
+        Dominio: thispersondoesnotexist.com
+        Ruta: /image
+        Tipo: URL absoluta ya que incluye el protocolo (https://).
+
+    sftp://example.com
+        Protocolo: sftp
+        Dominio: example.com
+        Tipo: URL absoluta ya que incluye el protocolo (sftp://).
+
+    info/noticia.html?p=2
+        Ruta: /info/noticia.html
+        Paràmetros : p=2
+        Tipo: URL relativa ya que no incluye un esquema (como http:// o https://).
